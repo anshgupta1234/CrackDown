@@ -1,0 +1,3 @@
+[submodule "message-app-frontend"]
+	path = message-app-frontend
+	url = https://github.com/ProSavage/message-app-frontend
