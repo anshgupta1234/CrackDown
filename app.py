@@ -17,6 +17,7 @@ def home():
         return "bully"
     results = predict(msg)
     print(results)
+    return results
     
     
     
